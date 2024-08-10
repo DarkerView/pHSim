@@ -21,4 +21,4 @@ Yes, commercially available pH simulators are out there, [for a thousand dollars
 
 I have chosen to release the device as a Creative Commons non-commercial license CC BY-NC 4.0, as this prohibits others from selling or profiting from the device but allows anyone to copy and use as long as they do not sell it for a profit.
 
-As PCB’s are surprisingly cheap these days I have had a small stack of boards made and intend to give a few away to some folks I work with around NELHA. If you are interested in a PCB, or a kit of parts feel free to contact me.
+As PCB’s are surprisingly cheap these days I have had a small stack of boards made and intend to give a few away to some folks I work with around [NELHA](https://nelha.hawaii.gov/). If you are interested in a PCB, or a kit of parts feel free to contact me.
