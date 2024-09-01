@@ -19,6 +19,8 @@ With this simulator I can disconnect the probe and test the pH meter separately,
 
 While the circuit design may be quite simple, it becomes a fun exercise to design a usable solution around it. First is to house the circuit in a rugged case that can withstand being thown in a toolbag or bounced off the concrete. This case is of course 3D printed from ABS plastic resulting in a solid housing that can take a bit of abuse. Add a proper printed circuit board and you have a neat solution that is pretty close to a commercial product.
 
+No this device does not replace the need to calibrate with the actual pH probe you will be using.  This is an ideal probe, the real pH probe you will be using is less than ideal, compensating for that is what pH calibration is about.
+
 Yes, commercially available pH simulators are out there, [for a thousand dollars](https://www.thomassci.com/Instruments/Electrodes-pH/_/pH-Simulator) or more. Aquaculture operations are quite often low budget startups, so low cost alternatives for useful tools make sense. Thus I am publishing the plans for the unit I originally designed and constructed for my own use.
 
 I have chosen to release the device as a [Creative Commons non-commercial license CC BY-NC 4.0](/LICENSE.md), as this prohibits others from selling or profiting from the device but allows anyone to copy and use as long as they do not sell it for a profit.
